@@ -1,4 +1,4 @@
-# Parking Management System
+# 🚘Parking Management System
 
 A console-based Parking Management System developed using Java. The application allows users to manage vehicle parking records efficiently through a menu-driven interface.
 

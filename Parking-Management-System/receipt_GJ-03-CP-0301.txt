@@ -1,0 +1,12 @@
+========== PARKING RECEIPT ==========
+Vehicle Number : GJ-03-CP-0301
+Owner Name     : Vatsal Gajera
+Vehicle Type   : 2-Wheeler
+Slot Number    : A1
+
+Entry Time     : 09-06-2026 15:49:13
+Exit Time      : 09-06-2026 15:52:05
+Duration       : 1 Hours
+
+Total Fee      : Rs10.0
+====================================

@@ -116,6 +116,16 @@ This project demonstrates:
 - Exception Handling
 - Menu-Driven Applications
 
-## Author
+## Contributor
 
-Vatsal Gajera
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vatsalgajera-tech">
+        <img src="https://github.com/vatsalgajera-tech.png" width="80" style="border-radius:50%"/><br/>
+        <b>Vatsal Gajera</b>
+      </a><br/>
+      <sub>JAVA · Console App</sub>
+    </td>
+  </tr>
+</table>
